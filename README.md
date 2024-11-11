@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="NorJasas" src="https://github.com/user-attachments/assets/6f3b23a0-0653-43e1-8f23-04f311e984bd" width="155px">
+  <img align="right" alt="NorJasas" src="https://github.com/user-attachments/assets/2a9c190d-7ad5-451b-99cd-0b3176fe27db" width="155px">
 <div>
 ##
 <div>
